@@ -1,0 +1,28 @@
+# Core LangChain & LangGraph
+langchain
+langgraph
+langchain-community
+langchain-groq
+
+# Vector Database
+chromadb
+langchain-chroma
+
+# PDF Processing
+pypdf
+
+# Embeddings
+sentence-transformers
+
+# LLM & API
+groq
+# UI
+streamlit
+
+# Utilities
+python-dotenv
+tiktoken
+
+# Optional (for better performance)
+numpy
+pandas
