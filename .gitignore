@@ -27,9 +27,6 @@ wheels/
 .env
 .env.local
 
-# ChromaDB
-data/chroma_db/
-
 # IDEs
 .vscode/
 .idea/
